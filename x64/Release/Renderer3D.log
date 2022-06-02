@@ -1,0 +1,60 @@
+﻿  win32_main.cpp
+E:\Computer\MyTools\Renderer3D_vs\Renderer3D\Source\Math.cpp(60,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Computer\MyTools\Renderer3D_vs\Renderer3D\Source\Math.cpp(64,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Computer\MyTools\Renderer3D_vs\Renderer3D\Source\renderer.cpp(49,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Computer\MyTools\Renderer3D_vs\Renderer3D\Source\renderer.cpp(50,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Computer\MyTools\Renderer3D_vs\Renderer3D\Source\renderer.cpp(149,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Computer\MyTools\Renderer3D_vs\Renderer3D\Source\renderer.cpp(159,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Computer\MyTools\Renderer3D_vs\Renderer3D\Source\renderer.cpp(249,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Computer\MyTools\Renderer3D_vs\Renderer3D\Source\renderer.cpp(265,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Computer\MyTools\Renderer3D_vs\Renderer3D\Source\renderer.cpp(284,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Computer\MyTools\Renderer3D_vs\Renderer3D\Source\renderer.cpp(285,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Computer\MyTools\Renderer3D_vs\Renderer3D\Source\renderer.cpp(376,24): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\Computer\MyTools\Renderer3D_vs\Renderer3D\Source\renderer.cpp(448,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Computer\MyTools\Renderer3D_vs\Renderer3D\Source\renderer.cpp(449,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Computer\MyTools\Renderer3D_vs\Renderer3D\Source\renderer.cpp(487,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Computer\MyTools\Renderer3D_vs\Renderer3D\Source\renderer.cpp(487,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Computer\MyTools\Renderer3D_vs\Renderer3D\Source\renderer.cpp(487,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Computer\MyTools\Renderer3D_vs\Renderer3D\Source\renderer.cpp(491,20): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+E:\Computer\MyTools\Renderer3D_vs\Renderer3D\Source\renderer.cpp(492,20): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+E:\Computer\MyTools\Renderer3D_vs\Renderer3D\Source\renderer.cpp(493,20): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+E:\Computer\MyTools\Renderer3D_vs\Renderer3D\Source\renderer.cpp(521,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Computer\MyTools\Renderer3D_vs\Renderer3D\Source\renderer.cpp(522,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Computer\MyTools\Renderer3D_vs\Renderer3D\Source\renderer.cpp(560,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Computer\MyTools\Renderer3D_vs\Renderer3D\Source\renderer.cpp(560,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Computer\MyTools\Renderer3D_vs\Renderer3D\Source\renderer.cpp(560,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Computer\MyTools\Renderer3D_vs\Renderer3D\Source\renderer.cpp(564,20): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+E:\Computer\MyTools\Renderer3D_vs\Renderer3D\Source\renderer.cpp(565,20): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+E:\Computer\MyTools\Renderer3D_vs\Renderer3D\Source\renderer.cpp(566,20): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+E:\Computer\MyTools\Renderer3D_vs\Renderer3D\Source\Renderer3D.cpp(17,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Computer\MyTools\Renderer3D_vs\Renderer3D\Source\win32_main.cpp(109,43): warning C4244: '+=': conversion from 'long double' to 'float', possible loss of data
+E:\Computer\MyTools\Renderer3D_vs\Renderer3D\Source\win32_main.cpp(114,16): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+E:\Computer\MyTools\Renderer3D_vs\Renderer3D\Source\win32_main.cpp(115,16): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+E:\Computer\MyTools\Renderer3D_vs\Renderer3D\Source\win32_main.cpp(124,42): warning C4244: '-=': conversion from 'long double' to 'float', possible loss of data
+E:\Computer\MyTools\Renderer3D_vs\Renderer3D\Source\win32_main.cpp(125,44): warning C4244: '-=': conversion from 'long double' to 'float', possible loss of data
+E:\Computer\MyTools\Renderer3D_vs\Renderer3D\Source\win32_main.cpp(148,39): warning C4244: 'argument': conversion from 'long double' to 'const float', possible loss of data
+E:\Computer\MyTools\Renderer3D_vs\Renderer3D\Source\win32_main.cpp(153,39): warning C4244: 'argument': conversion from 'long double' to 'const float', possible loss of data
+E:\Computer\MyTools\Renderer3D_vs\Renderer3D\Source\win32_main.cpp(157,47): warning C4244: 'argument': conversion from 'long double' to 'const float', possible loss of data
+E:\Computer\MyTools\Renderer3D_vs\Renderer3D\Source\win32_main.cpp(163,47): warning C4244: 'argument': conversion from 'long double' to 'const float', possible loss of data
+E:\Computer\MyTools\Renderer3D_vs\Renderer3D\Source\win32_main.cpp(169,45): warning C4244: '+=': conversion from 'long double' to 'float', possible loss of data
+E:\Computer\MyTools\Renderer3D_vs\Renderer3D\Source\win32_main.cpp(173,45): warning C4244: '-=': conversion from 'long double' to 'float', possible loss of data
+E:\Computer\MyTools\Renderer3D_vs\Renderer3D\Source\win32_main.cpp(388,45): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\Computer\MyTools\Renderer3D_vs\Renderer3D\Source\win32_main.cpp(404,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Computer\MyTools\Renderer3D_vs\Renderer3D\Source\win32_main.cpp(404,16): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Computer\MyTools\Renderer3D_vs\Renderer3D\Source\win32_main.cpp(403,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Computer\MyTools\Renderer3D_vs\Renderer3D\Source\win32_main.cpp(403,16): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Computer\MyTools\Renderer3D_vs\Renderer3D\Source\win32_main.cpp(402,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Computer\MyTools\Renderer3D_vs\Renderer3D\Source\win32_main.cpp(402,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Computer\MyTools\Renderer3D_vs\Renderer3D\Source\win32_main.cpp(411,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Computer\MyTools\Renderer3D_vs\Renderer3D\Source\win32_main.cpp(411,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Computer\MyTools\Renderer3D_vs\Renderer3D\Source\win32_main.cpp(410,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Computer\MyTools\Renderer3D_vs\Renderer3D\Source\win32_main.cpp(410,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Computer\MyTools\Renderer3D_vs\Renderer3D\Source\win32_main.cpp(409,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Computer\MyTools\Renderer3D_vs\Renderer3D\Source\win32_main.cpp(409,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+E:\Computer\MyTools\Renderer3D_vs\Renderer3D\Source\tools.cpp(20): warning C4715: 'middle': not all control paths return a value
+E:\Computer\MyTools\Renderer3D_vs\Renderer3D\Source\Math.cpp(358): warning C4715: 'Triangle_ClipAgainstPlane': not all control paths return a value
+  All 784 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Renderer3D.vcxproj -> E:\Computer\MyTools\Renderer3D_vs\Renderer3D\x64\Release\Renderer3D.exe
